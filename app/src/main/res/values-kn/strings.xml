@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಪಶು-ಆಹಾರ</string>
+    <string name="namaste_raita">ನಮಸ್ತೆ ರೈತ</string>
+    <string name="tagline">ಸಮತೋಲಿತ ಆಹಾರ ತಯಾರಿಸಿ, ವೆಚ್ಚ ಉಳಿಸಿ.</string>
+    <string name="total_cows">ಒಟ್ಟು ಹಸುಗಳು</string>
+    <string name="monthly_savings">ಮಾಸಿಕ ಉಳಿತಾಯ</string>
+    <string name="add_cow">ಹಸುವನ್ನು ಸೇರಿಸಿ</string>
+    <string name="new_recipe">ಹೊಸ ರೆಸಿಪಿ</string>
+    <string name="recent_activity">ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ</string>
+    <string name="cow_profile">ಹಸುವಿನ ವಿವರ (ಹಂತ ಹಂತವಾಗಿ)</string>
+    <string name="step_indicator">ಹಂತ %1$d ರ %2$d</string>
+    <string name="saved_cows">ಉಳಿಸಿದ ಹಸುಗಳು</string>
+    <string name="cow_name">ಹಸುವಿನ ಹೆಸರು</string>
+    <string name="breed">ತಳಿ</string>
+    <string name="age_years">ವಯಸ್ಸು (ವರ್ಷಗಳು)</string>
+    <string name="weight_kg">ತೂಕ (ಕೆಜಿ)</string>
+    <string name="milk_yield_liters">ಹಾಲು ಇಳುವರಿ (ಲೀಟರ್/ದಿನ)</string>
+    <string name="review">ಪರಿಶೀಲಿಸಿ</string>
+    <string name="back">ಹಿಂದಕ್ಕೆ</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="update_cow">ಹಸುವಿನ ವಿವರ ನವೀಕರಿಸಿ</string>
+    <string name="delete">ಅಳಿಸು</string>
+    <string name="edit">ತಿದ್ದುಪಡಿ</string>
+    <string name="recipe_generator">ರೆಸಿಪಿ ತಯಾರಕ ಮತ್ತು ವೆಚ್ಚ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="recipe_tagline">ಮೆಕ್ಕೆಜೋಳ, ತೌಡು ಮತ್ತು ಹಿಂಡಿ ಬಳಸಿ ಸಮತೋಲಿತ ಸ್ಥಳೀಯ ಆಹಾರ.</string>
+    <string name="select_cow">ಹಸುವನ್ನು ಆರಿಸಿ</string>
+    <string name="milk_yield_target">ಹಾಲು ಇಳುವರಿ ಗುರಿ (ಲೀಟರ್/ದಿನ)</string>
+    <string name="recipe_calc_info">ಗುರಿ ಇಳುವರಿ ಅಥವಾ ಧಾನ್ಯದ ಬೆಲೆಗಳು ಬದಲಾದಾಗ ಆಹಾರದ ಪ್ರಮಾಣವು ಮರು ಲೆಕ್ಕಾಚಾರವಾಗುತ್ತದೆ.</string>
+    <string name="market_feed_price">ಮಾರುಕಟ್ಟೆ ಆಹಾರದ ಬೆಲೆ (ರೂ/ಕೆಜಿ)</string>
+    <string name="refresh_mix">ಮಿಶ್ರಣವನ್ನು ನವೀಕರಿಸಿ</string>
+    <string name="save_recipe">ರೆಸಿಪಿ ಉಳಿಸಿ</string>
+    <string name="grain_prices">ಧಾನ್ಯದ ಬೆಲೆಗಳು (ರೂ/ಕೆಜಿ)</string>
+    <string name="grain_price_label">%s ಬೆಲೆ</string>
+    <string name="recipe_protein">ಪ್ರೋಟೀನ್: %1$.2f%%</string>
+    <string name="recipe_tdn">ಟಿಡಿಎನ್: %1$.2f%%</string>
+    <string name="cost_per_kg">ಬೆಲೆ/ಕೆಜಿ: ರೂ %1$.2f</string>
+    <string name="daily_cost">ದೈನಂದಿನ ವೆಚ್ಚ: ರೂ %1$.2f</string>
+    <string name="offline_nutrition_info">ಧಾನ್ಯದ ದತ್ತಾಂಶವನ್ನು ಪಡೆದ ನಂತರ ಪೋಷಕಾಂಶದ ಲೆಕ್ಕಾಚಾರಗಳು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ.</string>
+    <string name="homemade_per_day">ಮನೆಯಲ್ಲೇ ತಯಾರಿಸಿದ ವೆಚ್ಚ/ದಿನ: ರೂ %1$.2f</string>
+    <string name="market_per_day">ಮಾರುಕಟ್ಟೆ ವೆಚ್ಚ/ದಿನ: ರೂ %1$.2f</string>
+    <string name="yearly_savings">ವಾರ್ಷಿಕ ಉಳಿತಾಯ: ರೂ %1$.2f</string>
+    <string name="recipe_for">%s ಹಸುವಿನ ರೆಸಿಪಿ</string>
+</resources>

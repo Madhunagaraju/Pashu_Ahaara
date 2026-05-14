@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_window_background">#F7FBF4</color>
+    <color name="seed_green">#2E7D32</color>
+    <color name="seed_orange">#FF8F00</color>
+</resources>
