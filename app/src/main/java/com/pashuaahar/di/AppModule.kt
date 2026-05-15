@@ -48,7 +48,7 @@ object AppModule {
             "pashu_aahar.db"
         )
             .addMigrations(DatabaseMigrations.MIGRATION_1_2)
-            .fallbackToDestructiveMigration()
+            .fallbackToDestructiveMigration(true)
             .addCallback(object : androidx.room.RoomDatabase.Callback() {
                 override fun onCreate(db: SupportSQLiteDatabase) {
                     super.onCreate(db)

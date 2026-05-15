@@ -2,8 +2,8 @@ package com.pashuaahar.presentation.navigation
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.automirrored.filled.List
 import androidx.compose.material.icons.filled.Info
-import androidx.compose.material.icons.filled.List
 import androidx.compose.material.icons.filled.Pets
 import androidx.compose.runtime.Immutable
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -23,7 +23,7 @@ data class BottomNavItem(
         val items: List<BottomNavItem> = listOf(
             BottomNavItem(HOME_ROUTE, com.pashuaahar.R.string.home, Icons.Filled.Home),
             BottomNavItem(COW_ROUTE, com.pashuaahar.R.string.my_cows, Icons.Filled.Pets),
-            BottomNavItem(RECIPE_ROUTE, com.pashuaahar.R.string.recipe, Icons.Filled.List),
+            BottomNavItem(RECIPE_ROUTE, com.pashuaahar.R.string.recipe, Icons.AutoMirrored.Filled.List),
             BottomNavItem(TIPS_ROUTE, com.pashuaahar.R.string.tips, Icons.Filled.Info)
         )
     }
